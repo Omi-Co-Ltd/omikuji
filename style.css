@@ -1,0 +1,30 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 5px;
+  border: none;
+  background-color: #ffcc00;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+#result {
+  font-size: 36px;
+  margin-top: 30px;
+}
